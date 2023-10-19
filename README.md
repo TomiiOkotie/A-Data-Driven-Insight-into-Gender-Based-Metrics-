@@ -1,4 +1,4 @@
-# Student-Medical-Analysis
+# Student-Medical-Analysis jki[
 
 
 In this dataset of 200,000 students, gender based health differences are generally minimal. The average age for females is about 25.99 years, while for males, it's approximately 26.05 years, a difference of roughly 0.06 years.
