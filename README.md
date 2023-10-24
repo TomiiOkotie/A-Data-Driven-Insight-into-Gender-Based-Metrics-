@@ -32,7 +32,7 @@ The data shows 200,000 students categorized by blood type provides interesting i
 <table>
   <tr>
     <td><img src="https://github.com/TomiiOkotie/Student-Medical-Analysis/blob/main/CountBT.png" alt="Image 1"></td>
-    <td><img src="https://github.com/TomiiOkotie/A-Data-Driven-Insight-into-Gender-Based-Metrics-/blob/main/bloodtypechart.png" alt="Image 2"></td>
+    <td><img src="https://github.com/TomiiOkotie/A-Data-Driven-Insight-into-Gender-Based-Metrics-/blob/main/blood.png" alt="Image 2"></td>
   </tr>
 </table>
 
